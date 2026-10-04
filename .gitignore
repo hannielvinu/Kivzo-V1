@@ -6,6 +6,3 @@ __pycache__/
 .env
 .venv/
 venv/
-results/charts/
-results/bench_results.json
-results/BENCHMARK_REPORT.md
